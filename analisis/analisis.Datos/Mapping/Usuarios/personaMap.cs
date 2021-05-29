@@ -15,18 +15,18 @@ namespace analisis.Datos.Mapping.Usuarios
             builder.ToTable("persona")
                .HasKey(c => c.idpersona);
             builder.Property(c => c.tipo_persona)
-                .HasMaxLength(200);
+                .HasMaxLength(250);
             builder.Property(c => c.nombre)
-                .HasMaxLength(200);
+                .HasMaxLength(250);
             builder.Property(c => c.tipo_documento)
-                  .HasMaxLength(200);
+                  .HasMaxLength(250);
             builder.Property(c => c.num_documento);
             builder.Property(c => c.direccion)
-                .HasMaxLength(256);
+                .HasMaxLength(250);
             builder.Property(c => c.telefono)
-                .HasMaxLength(256);
+                .HasMaxLength(250);
             builder.Property(c => c.email)
-                .HasMaxLength(256);
+                .HasMaxLength(250);
 
         }
     }

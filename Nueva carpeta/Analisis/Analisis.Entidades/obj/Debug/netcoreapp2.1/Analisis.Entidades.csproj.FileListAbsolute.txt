@@ -1,9 +1,0 @@
-C:\Project\Nueva carpeta\Analisis\Analisis.Entidades\bin\Debug\netcoreapp2.1\Analisis.Entidades.deps.json
-C:\Project\Nueva carpeta\Analisis\Analisis.Entidades\bin\Debug\netcoreapp2.1\Analisis.Entidades.dll
-C:\Project\Nueva carpeta\Analisis\Analisis.Entidades\bin\Debug\netcoreapp2.1\Analisis.Entidades.pdb
-C:\Project\Nueva carpeta\Analisis\Analisis.Entidades\obj\Debug\netcoreapp2.1\Analisis.Entidades.csprojAssemblyReference.cache
-C:\Project\Nueva carpeta\Analisis\Analisis.Entidades\obj\Debug\netcoreapp2.1\Analisis.Entidades.csproj.CoreCompileInputs.cache
-C:\Project\Nueva carpeta\Analisis\Analisis.Entidades\obj\Debug\netcoreapp2.1\Analisis.Entidades.AssemblyInfoInputs.cache
-C:\Project\Nueva carpeta\Analisis\Analisis.Entidades\obj\Debug\netcoreapp2.1\Analisis.Entidades.AssemblyInfo.cs
-C:\Project\Nueva carpeta\Analisis\Analisis.Entidades\obj\Debug\netcoreapp2.1\Analisis.Entidades.dll
-C:\Project\Nueva carpeta\Analisis\Analisis.Entidades\obj\Debug\netcoreapp2.1\Analisis.Entidades.pdb

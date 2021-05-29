@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "poqVjsifN55N07eJgpzQHZyspQd8T8QhlMCRDXDNulaDPSel9DS/6NilegcE0jPwk+yV0pbHNgd0I8yTBeeKgg==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\Nueva carpeta\\Analisis\\Analisis.Datos\\Analisis.Datos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ger-a\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\ger-a\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\ger-a\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\ger-a\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\ger-a\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ger-a\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\ger-a\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

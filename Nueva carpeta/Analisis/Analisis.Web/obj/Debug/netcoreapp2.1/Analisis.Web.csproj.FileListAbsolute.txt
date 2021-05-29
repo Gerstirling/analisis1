@@ -1,0 +1,15 @@
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.deps.json
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.runtimeconfig.json
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.runtimeconfig.dev.json
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.dll
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.pdb
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.csproj.CoreCompileInputs.cache
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.AssemblyInfoInputs.cache
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.AssemblyInfo.cs
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.dll
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.pdb
+C:\Project\Nueva carpeta\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.genruntimeconfig.cache

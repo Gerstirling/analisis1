@@ -15,15 +15,15 @@ namespace analisis.Datos.Mapping.Usuarios
             builder.ToTable("usuario")
                        .HasKey(c => c.idusuario);
             builder.Property(c => c.nombre)
-                .HasMaxLength(200);
+                .HasMaxLength(250);
             builder.Property(c => c.tipo_documento)
-               .HasMaxLength(200);
+               .HasMaxLength(250);
             builder.Property(c => c.num_documento);
             builder.Property(c => c.direccion)
-                  .HasMaxLength(200);
+                  .HasMaxLength(250);
             builder.Property(c => c.telefono);
             builder.Property(c => c.email)
-                 .HasMaxLength(200);
+                 .HasMaxLength(250);
             builder.Property(c => c.password_hash)
                 .HasMaxLength(16);
             builder.Property(c => c.password_salt)
